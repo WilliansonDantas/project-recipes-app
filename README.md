@@ -6,6 +6,9 @@ O App de Receitas foi um projeto em grupo realizado durante o meu curso na Trybe
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Contextualização:
 
+Foi desenvolvido um app de receitas, em que é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
+
+A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas.
 
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
