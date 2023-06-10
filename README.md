@@ -38,7 +38,7 @@ npm start
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Habilidades:
 
-  - Utilizar a _Context API_ do **React** para gerenciar estado.
+  - Utilizar a _Context API_ do **React** para gerenciar estado;
   - Utilizar Hook's;
   - Escrever testes para garantir cobertura de testes.
 
