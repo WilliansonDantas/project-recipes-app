@@ -18,6 +18,14 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
   - Utilizar Hook's;
   - Escrever testes para garantir cobertura de testes.
 
+-----
+
+## 🛠️ Ferramentas & Metodologias Utilizadas
+
+  - [React.js](https://reactjs.org/docs/getting-started.html);
+  - [Context API e Hooks](https://reactjs.org/docs/hooks-intro.html?).
+
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
