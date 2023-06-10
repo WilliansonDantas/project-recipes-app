@@ -15,10 +15,15 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
 ### 📋 Execute o projeto em sua máquina
 
 Clone o repositório:
+```
+git clone git@github.com:WilliansonDantas/project-recipes-app.git
+```
 
 ```
-git clone git@github.com:WilliansonDantas/project-starwars-planets-search.git
 cd starwars-planets-search
+```
+
+```
 npm install
 ```
 
