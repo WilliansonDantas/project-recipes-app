@@ -12,7 +12,19 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
 
 -----
 
-## <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Habilidades:
+### 📋 Execute o projeto em sua máquina
+
+Clone o repositório:
+
+```
+git clone git@github.com:WilliansonDantas/project-starwars-planets-search.git
+cd starwars-planets-search
+npm install
+```
+
+-----
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Habilidades:
 
   - Utilizar a _Context API_ do **React** para gerenciar estado.
   - Utilizar Hook's;
@@ -20,7 +32,7 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
 
 -----
 
-## <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
 
   - [React.js](https://reactjs.org/docs/getting-started.html);
   - [Context API e Hooks](https://reactjs.org/docs/hooks-intro.html?).
