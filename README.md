@@ -10,6 +10,17 @@ Foi desenvolvido um app de receitas, em que é possível: ver, buscar, filtrar, 
 
 A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas.
 
+-----
+
+## 👨🏻‍💻 Habilidades
+
+  - Utilizar a _Context API_ do **React** para gerenciar estado.
+  - Utilizar o _React Hook useState_;
+  - Utilizar o _React Hook useContext_;
+  - Utilizar o _React Hook useEffect_;
+  - Criar _React Hooks_ customizados;
+  - Escrever testes para garantir uma boa cobertura de testes.
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
