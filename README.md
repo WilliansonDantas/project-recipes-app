@@ -12,14 +12,11 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
 
 -----
 
-## 👨🏻‍💻 Habilidades
+## <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Habilidades:
 
   - Utilizar a _Context API_ do **React** para gerenciar estado.
-  - Utilizar o _React Hook useState_;
-  - Utilizar o _React Hook useContext_;
-  - Utilizar o _React Hook useEffect_;
-  - Criar _React Hooks_ customizados;
-  - Escrever testes para garantir uma boa cobertura de testes.
+  - Utilizar Hook's;
+  - Escrever testes para garantir cobertura de testes.
 
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
