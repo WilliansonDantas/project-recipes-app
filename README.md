@@ -25,13 +25,9 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
   - [React.js](https://reactjs.org/docs/getting-started.html);
   - [Context API e Hooks](https://reactjs.org/docs/hooks-intro.html?).
 
+-----
 
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
+
+<!--
 -->
