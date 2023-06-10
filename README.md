@@ -12,7 +12,7 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
 
 -----
 
-### 📋 Execute o projeto em sua máquina
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Execute o projeto em sua máquina:
 
 Clone o repositório
 ```
@@ -24,9 +24,14 @@ Acesse o diretório do projeto
 cd project-recipes-app
 ```
 
-Rode a aplicação
+Instale as dependências
 ```
 npm install
+```
+
+Inicialize o projeto
+```
+npm start
 ```
 
 -----
