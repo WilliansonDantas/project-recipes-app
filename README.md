@@ -20,7 +20,7 @@ A base de dados são de 2 API's distintas, uma para comidas e outra para bebidas
 
 -----
 
-## 🛠️ Ferramentas & Metodologias Utilizadas
+## <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas & Metodologias Utilizadas:
 
   - [React.js](https://reactjs.org/docs/getting-started.html);
   - [Context API e Hooks](https://reactjs.org/docs/hooks-intro.html?).
